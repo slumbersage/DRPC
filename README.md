@@ -11,11 +11,11 @@ Welcome to our Python script that updates your Discord presence with dynamic ico
 1. **Window Monitoring**: The script tracks your currently focused window on your desktop.
 2. **Icon Fetching**: It extracts the application name from the window title and fetches an icon from the web based on the application name.
 3. **Discord Presence Update**: The script updates your Discord presence with the fetched icon and relevant details, providing real-time insights into your activities.
-
+4. **Please note that this code currently works on linux systems only.**
 ## Setup
 1. **Dependencies**: Ensure you have Python 3.x installed along with the required dependencies listed in `requirements.txt`.
 2. **Discord Client ID**: Replace `'your_client_id'` in the script with your actual Discord client ID.
-3. **Running the Script**: Execute `python your_script_name.py` to start updating your Discord presence with dynamic icons.
+3. **Running the Script**: Execute `python3 DRPC.py` to start updating your Discord presence with dynamic icons.
 
 ## Customization
 - **Special Application Names**: Customize the `special_names` list in the script to include your preferred special application names for randomized icons.
