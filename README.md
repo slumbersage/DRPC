@@ -26,3 +26,6 @@ Contributions are welcomed! Feel free to fork this repository, make improvements
 
 ## Credits
 Crafted by altin & aiko, inspired by the desire to personalize Discord presence with dynamic icons.
+## Watch the script in action:
+
+[![Watch The Video](https://img.youtube.com/vi/PUkjrgaEHqc/0.jpg)](https://www.youtube.com/watch?v=PUkjrgaEHqc)
